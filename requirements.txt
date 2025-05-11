@@ -1,0 +1,6 @@
+Flask
+gTTS
+python-dotenv
+pydub
+google-generativeai
+whisper
