@@ -3,7 +3,7 @@ import os
 from dotenv import load_dotenv
 
 load_dotenv()
-openai.api_key = os.getenv("OPENAI_API_KEY")
+openai.api_key = os.getenv("AIzaSyAlaKpMLeJLj_NYgyOededAgZoDymfpC_o")
 
 def generate_response(user_input):
     prompt = f"You are a helpful appointment assistant.\nUser: {user_input}\nAssistant:"
