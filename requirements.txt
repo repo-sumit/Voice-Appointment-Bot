@@ -1,6 +1,0 @@
-Flask
-openai
-gTTS
-openai-whisper
-python-dotenv
-pydub
