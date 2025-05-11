@@ -1,0 +1,11 @@
+[
+  {
+    "input": "I want to book an appointment for 5 PM tomorrow",
+    "intent": "book",
+    "slot": "5 PM tomorrow"
+  },
+  {
+    "input": "Can you reschedule my booking to next Monday?",
+    "intent": "reschedule"
+  }
+]
